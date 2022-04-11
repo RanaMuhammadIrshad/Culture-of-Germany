@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.6rem;
+  padding: 1rem;
+}
+
+h1 {
+  color: green;
+}
+.p1 {
+  color: red;
+  background-color: yellow;
+}
+
+h2 {
+  color: blue;
+}
+.p2 {
+  background-color: rebeccapurple;
+}
+#language {
+  color: green;
+  background-color: red;
+}
+
+.cinema {
+  color: pink;
+}
+#arc {
+  color: brown;
+  background-color: blue;
+}
